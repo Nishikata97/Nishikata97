@@ -1,7 +1,7 @@
 # Hi, I'm Qian 👋  
 
 🎓 PhD Candidate @ University of Otago  
-🔍 Research Interests: **Recommender Systems**, **Sequential Modeling**, **Graph Neural Networks**
+🔍 Research Interests: **Recommender Systems**, **Graph Neural Networks**
 
 ---
 
