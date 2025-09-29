@@ -12,7 +12,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishikata97&show_icons=true&count_private=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishikata97&show_icons=true&count_private=true&theme=default&cache_seconds=1800)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishikata97&layout=compact&hide=html,css&langs_count=3)
 
 ---
