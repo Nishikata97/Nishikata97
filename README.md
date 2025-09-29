@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Qian 👋  
 
-<!--
-**Nishikata97/Nishikata97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PhD Candidate @ University of Otago  
+🔍 Research Interests: **Recommender Systems**, **Sequential Modeling**, **Graph Neural Networks**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Academic Profiles
+- 📄 [Google Scholar](https://scholar.google.com/citations?user=TNkMXrwAAAAJ&hl)  
+- 🆔 [ORCID](https://orcid.org/0009-0009-1117-0236)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishikata97&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)  
+
+---
+
+✉️ Contact: qian.zhang@postgrad.otago.ac.nz
